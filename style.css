@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  font-family: poppins;
+}
+h1 {
+  font-size: 60px;
+  line-height: 30px;
+}
+h6 {
+  font-size: 15px;
+  margin: 0;
+}
+p {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+h1 span {
+  color: palegreen;
+}
+section {
+  display: flex;
+  margin: 10%;
+}
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 400px;
+}
+.hero-heading {
+  border-left: 3px solid olivedrab;
+  padding-left: 30px;
+}
+
+.contact-information h3 {
+  margin-left: 10%;
+}
+a.website-button {
+  text-decoration: none;
+  background-color: #097dea;
+  color: white;
+  padding: 15px 40px;
+  border-radius: 5px;
+}
+h2 {
+  text-align: center;
+  font-size: 48px;
+}
+h2 span {
+  color: palegreen;
+}
+.third-width {
+  width: 33%;
+}
+.one-fourth-width {
+  width: 60%;
+  padding-right: 50px;
+}
+.one-third-width img {
+  width: 90%;
+}
+
+.one-third-width {
+  width: 40%;
+}
+.mission-details img {
+  width: 40%;
+}
+.mission-details {
+  display: flex;
+}
+.mission-details h4 {
+  font-size: 20px;
+}
+.third-width {
+  margin: 10px;
+  padding: 30px;
+  border-radius: 10px;
+}
+h3 {
+  font-size: 36px;
+}
+div#mission {
+  background-color: #4f9da657;
+}
+div#vision {
+  background-color: #ff595971;
+}
+div#focus {
+  background-color: #fff4d67e;
+}
+section.mission-are {
+  margin-bottom: 100px;
+}
+.one-fourth-width p {
+  padding-top: 0px;
+}
+.mission-details p {
+  padding-top: 0px;
+}
+.contat-form input {
+  width: 100%;
+  height: 40px;
+}
+.contact-details h2 {
+  text-align: left;
+}
+.contat-form textarea {
+  width: 100%;
+}
+button.submit-button {
+  text-decoration: none;
+  background-color: #097dea;
+  color: white;
+  padding: 15px 40px;
+  border-radius: 5px;
+  border: none;
+  width: 100%;
+  font-size: 20px;
+}
+.information-data {
+  margin-left: 10%;
+  margin-top: 15%;
+}
+.contat-form {
+  margin-right: 5%;
+}
+footer h3 span {
+  color: palegreen;
+}
+footer {
+  background-color: #0b0d17;
+  padding: 40px;
+}
+footer h3 {
+  text-align: center;
+  color: white;
+  padding: 0px;
+}
+footer p {
+  text-align: center;
+  color: white;
+  padding: 0px;
+}
