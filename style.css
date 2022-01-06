@@ -4,7 +4,7 @@
 }
 h1 {
   font-size: 60px;
-  line-height: 30px;
+  line-height: 60px;
 }
 h6 {
   font-size: 15px;
@@ -25,7 +25,8 @@ section {
   width: 50%;
 }
 .half-width img {
-  width: 400px;
+  width: 500px;
+  margin-left: 70px;
 }
 .hero-heading {
   border-left: 3px solid olivedrab;
